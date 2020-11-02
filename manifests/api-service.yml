@@ -1,0 +1,14 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: api-service
+spec:
+  selector:
+    run: api-service
+  type: NodePort  
+  ports:
+    - nodePort: 30163
+      name: port1
+      protocol: TCP
+      port: 8080
+      targetPort: 8080

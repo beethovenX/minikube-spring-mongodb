@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-service
+  labels:
+    run: api-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      run: api-service
+  template:
+    metadata:
+      labels:
+        run: api-service
+    spec:
+      containers:
+      - name: api-service
+        image: mozartx/api-service:latest
+        ports:
+        - containerPort: 8080
+          protocol: TCP
