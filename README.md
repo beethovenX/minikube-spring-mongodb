@@ -39,5 +39,19 @@ Note: Go the the Program menu select Power Shell and open it as an administrator
 We will be running all the minikube, docker and kubectl commands from the Windows Power Shell
 ```
 
+# Install Kubernetes
+
+```
+Follow the Instructions given on this page. You can use either by downloading the .exe file or with the help of choco package manager.
+https://kubernetes.io/docs/tasks/tools/install-kubectl/
+```
+
+# Install the minikube and configure it with your Kubectl
+
+``` 
+Follow the instructions on this page to install the minikube.
+https://minikube.sigs.k8s.io/docs/start/
+```
+
 
 
