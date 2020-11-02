@@ -188,8 +188,18 @@ curl --location --request GET 'http://127.0.0.1:57006/students/1' \
 
 ```
 curl --location --request GET 'http://127.0.0.1:57006/students/page?name=Aman%20Kalotra' \
--- ''
+--data-raw ''
 ```
+
+# Some debugging commands
+
+``` 
+Use following commands to check the logs of the pods
+
+   $ kubectl get pods
+   $ kubectl logs <pod name>
+```
+
 
 
 
