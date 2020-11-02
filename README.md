@@ -19,12 +19,10 @@ After selecting this stuff click apply and restart
 ``` 
 Here is how you should add the DOCKER_HOST environment variable to the System variables.
 ```
+![alt_text](https://github.com/beethovenX/minikube-spring-mongodb/blob/master/installation-guide/System_Variables.JPG?raw=true)
 
 
-
-```
-Set up the windows environment to work with WSL ( Windows Subsytem for Linux).
-```
+# Set up the windows environment to work with WSL ( Windows Subsytem for Linux).
 
 ```
 Follow the steps in the following URL
