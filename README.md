@@ -199,6 +199,7 @@ Use following commands to check the logs of the pods
    $ kubectl get pods
    $ kubectl logs <pod name>
 ```
+![alt_text](https://github.com/beethovenX/minikube-spring-mongodb/blob/master/installation-guide/Kubernetes_commands.JPG?raw=true)
 
 
 
