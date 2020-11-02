@@ -2,9 +2,8 @@
 
 # Step by Step Installation Guide
 
-``` 
-Install Docker Desktop on Windows 10
-```
+# Install Docker Desktop on Windows 10
+
 ```
 https://docs.docker.com/docker-for-windows/install/
 
