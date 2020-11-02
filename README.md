@@ -13,6 +13,12 @@ In the Windows Desktop the Setting should look like this.
 ```
 
 ![alt text](https://github.com/beethovenX/minikube-spring-mongodb/blob/master/installation-guide/docker_settings.JPG?raw=true)
+```
+After selecting this stuff click apply and restart
+```
+``` 
+Here is how you should add the DOCKER_HOST environment variable to the System variables.
+```
 
 
 
