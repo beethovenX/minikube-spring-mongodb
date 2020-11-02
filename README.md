@@ -53,5 +53,10 @@ Follow the instructions on this page to install the minikube.
 https://minikube.sigs.k8s.io/docs/start/
 ```
 
+# Project Set UP
 
+```
+1. Make sure the minikube is running and it is working well with the Kubectl.
+2. You need to signin/signup to `https://hub.docker.com/` because we will pushing and pulling docker images to the hub while setting up the project.
+```
 
