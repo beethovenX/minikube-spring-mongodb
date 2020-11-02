@@ -10,9 +10,11 @@ https://docs.docker.com/docker-for-windows/install/
 
 In the Windows Desktop the Setting should look like this.
 
+```
+
 ![alt text](https://github.com/beethovenX/minikube-spring-mongodb/blob/master/installation-guide/docker_settings.JPG?raw=true)
 
-```
+
 
 ```
 Set up the windows environment to work with WSL ( Windows Subsytem for Linux).
