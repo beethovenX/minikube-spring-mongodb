@@ -1,6 +1,0 @@
-mozartx\repository\StudentRepository.class
-mozartx\service\StudentService.class
-mozartx\model\Student.class
-mozartx\model\Course.class
-mozartx\controller\StudentController.class
-mozartx\Application.class
